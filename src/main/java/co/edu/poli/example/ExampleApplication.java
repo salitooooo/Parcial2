@@ -16,5 +16,6 @@ public class ExampleApplication {
         System.setProperty("DB_PWD_SUPABASE", dotenv.get("DB_PWD_SUPABASE"));	
 		SpringApplication.run(ExampleApplication.class, args);
 	}
+	//sssss
 
 }
